@@ -18,9 +18,6 @@ I used these cool React tools to make it all happen:
 * **`Routes` and `Route`:** These are like the roads and signs on our map. They tell React which component to show for each URL.
 * **`Link`:** These are like the bus stops. They let the user click and jump to different pages.
 
-Here's a visual explanation:
-
-!http://googleusercontent.com/image_generation_content/0
 
 ## Code Highlights ✨
 
